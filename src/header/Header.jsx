@@ -18,13 +18,13 @@ function Header() {
                     </Col>
                     <Col className='menuLinks' md={8}>
                         <ul className='navLinks '>
-                            <li onClick={() => setCount(1)}><a className='active' href="#">Foods</a></li>
-                            <li onClick={() => setCount(2)}><a href="#">Drinks</a></li>
-                            <li onClick={() => setCount(3)}><a href="#">Daily Menu</a></li>
-                            <li onClick={() => setCount(4)}><a href="#">Resturants</a></li>
-                            <li onClick={() => setCount(5)}><a href="#">Stories</a></li>
-                            <li onClick={() => setCount(6)}><a href="#">Videos</a></li>
-                            <li onClick={() => setCount(7)}><a href="#">Contact</a></li>
+                            <li onClick={() => setCount(1)}><a className='active'>Foods</a></li>
+                            <li onClick={() => setCount(2)}><a >Drinks</a></li>
+                            <li onClick={() => setCount(3)}><a >Daily Menu</a></li>
+                            <li onClick={() => setCount(4)}><a >Resturants</a></li>
+                            <li onClick={() => setCount(5)}><a >Stories</a></li>
+                            <li onClick={() => setCount(6)}><a >Videos</a></li>
+                            <li onClick={() => setCount(7)}><a >Contact</a></li>
                         </ul>
                         <div className="orderTrack">
                             <FontAwesomeIcon className='menuIcons' icon={faSearch} />
