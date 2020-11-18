@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/AY-BAMZ/alamala.git/static/css/main.652391f6.chunk.css",
+    "main.js": "/AY-BAMZ/alamala.git/static/js/main.2645a09b.chunk.js",
+    "main.js.map": "/AY-BAMZ/alamala.git/static/js/main.2645a09b.chunk.js.map",
+    "runtime-main.js": "/AY-BAMZ/alamala.git/static/js/runtime-main.00d3ccf4.js",
+    "runtime-main.js.map": "/AY-BAMZ/alamala.git/static/js/runtime-main.00d3ccf4.js.map",
+    "static/css/2.95f25948.chunk.css": "/AY-BAMZ/alamala.git/static/css/2.95f25948.chunk.css",
+    "static/js/2.0f38a6a4.chunk.js": "/AY-BAMZ/alamala.git/static/js/2.0f38a6a4.chunk.js",
+    "static/js/2.0f38a6a4.chunk.js.map": "/AY-BAMZ/alamala.git/static/js/2.0f38a6a4.chunk.js.map",
+    "static/js/3.27401a88.chunk.js": "/AY-BAMZ/alamala.git/static/js/3.27401a88.chunk.js",
+    "static/js/3.27401a88.chunk.js.map": "/AY-BAMZ/alamala.git/static/js/3.27401a88.chunk.js.map",
+    "index.html": "/AY-BAMZ/alamala.git/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/AY-BAMZ/alamala.git/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.652391f6.chunk.css.map": "/AY-BAMZ/alamala.git/static/css/main.652391f6.chunk.css.map",
+    "static/js/2.0f38a6a4.chunk.js.LICENSE.txt": "/AY-BAMZ/alamala.git/static/js/2.0f38a6a4.chunk.js.LICENSE.txt",
+    "static/media/svg1.28b26297.svg": "/AY-BAMZ/alamala.git/static/media/svg1.28b26297.svg",
+    "static/media/svg2.668b2fd9.svg": "/AY-BAMZ/alamala.git/static/media/svg2.668b2fd9.svg",
+    "static/media/svg3.110a9bd4.svg": "/AY-BAMZ/alamala.git/static/media/svg3.110a9bd4.svg",
+    "static/media/svg4.66926a44.svg": "/AY-BAMZ/alamala.git/static/media/svg4.66926a44.svg",
+    "static/media/svg5.80e43c12.svg": "/AY-BAMZ/alamala.git/static/media/svg5.80e43c12.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00d3ccf4.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.0f38a6a4.chunk.js",
+    "static/css/main.652391f6.chunk.css",
+    "static/js/main.2645a09b.chunk.js"
+  ]
+}
