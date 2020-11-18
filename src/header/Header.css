@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Roboto+Mono:wght@500&display=swap'); 
+
+.header{
+    background: #fff;
+    margin-top: 0px;
+    height: 60px;
+    align-items: center;
+    max-height: 70px;
+    box-shadow: 0px 4px 12px 1px rgb(202, 180, 180);
+    width: 100%;
+}
+.header .headerLinks{
+    margin: auto;
+    max-width: 1200px;
+    margin-top: 9px;
+}
+.headerRow{
+    display: flex;
+    margin: auto;
+}
+.headerRow Col{
+    align-items: center;
+    justify-content: left;
+}
+.headerRow .menuLinks{
+    display: flex;
+    align-items: center;
+}
+.headerRow h1{
+    font-size: 30px;
+    font-family: 'Audiowide', cursive;
+    color: #a20a0a;
+    text-align: left;
+    align-items: center;
+}
+.headerRow h1 span{
+    color: #444;
+}
+.headerRow ul{
+    list-style: none;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+.headerRow ul li{
+    text-align: left;
+    margin: 15px;
+    margin-left: 0px;
+}
+.headerRow ul li a{
+    color: #888;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 13px;
+    text-decoration: none;
+}
+.headerRow ul li a.active{
+    color: #a20a0a;
+}
+.headerRow ul li a:hover{
+    color: #a20a0a;
+}
+.orderTrack{
+    margin-left: 40px;
+}
+.menuIcons{
+    font-size: 14px;
+    margin: 13px;
+}

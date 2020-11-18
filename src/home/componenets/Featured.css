@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Bree+Serif&family=Roboto+Mono&display=swap');
+.featured{
+    background: #f9f9f9;
+}
+.featuredRow{
+    max-width: 1100px;
+    margin: auto;
+    padding: 40px 0px;
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.featuredRow h1{
+    font-size: 30px;
+    font-family: 'Bree Serif', serif;
+    color: #333;
+    margin-top: 40px;
+    margin-left: 25px;
+}
+.featuredRow h3{
+    font-size: 14px;
+    color: #444;
+    font-weight: 700;
+    margin: 12px;
+    margin-left: 25px;
+}
+.featuredRow p{
+    font-size: 10.5px;
+    margin: 12px;
+    margin-left: 25px;
+    color: #999;
+    font-weight: 600;
+}
+.featuredRow h5{
+    font-size: 11px;
+    margin: 12px;
+    margin-left: 25px;
+    color: #777;
+    letter-spacing: 0.5px;
+    margin-right: 25px;
+}
+.featuredRow .featuredCol{
+    width: 100%;
+    overflow: hidden;
+    border: 1px solid rgb(179, 179, 179, 0.1);
+    margin: 10px;
+    border-radius: 10px;
+    padding: 0px;
+    height: 360px;
+    text-align: left;
+    background: #fff;
+}
+.featuredRow .featuredCol img{
+    width: 100%;
+    margin: 0px;
+    height: 180px;
+}
+.featuredRow .specialFeatured{
+    width: 100%;
+    border: 1px solid rgb(179, 179, 179, 0.1);
+    margin: 10px;
+    border-radius: 10px;
+    padding: 0px;
+    height: 360px;
+    background: #fff;
+    overflow: hidden;
+}
+.featuredRow .specialFeatured img{
+    width: 100%;
+    height: 100%;
+}
+.featuredRow .specialFeature{
+    width: 100%;
+    border: 1px solid rgb(179, 179, 179, 0.1);
+    margin: 10px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 0px;
+    height: 360px;
+    overflow: hidden;
+    text-align: left;
+}
+.featuredRow .specialFeature .specialImage{
+    margin-left: 25px;
+    display: flex;
+}
+.specialFeature img{
+    width: 85px;
+    height: 70px;
+    margin: 5px;
+    margin-left: 0px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.featuredRow .exploreSpecial{
+    display: flex;
+}
+.featuredRow .featuredCol:hover, .featuredRow .specialFeature:hover, .featuredRow .specialFeatured:hover{
+    box-shadow: 0px 0px 30px 10px rgb(206, 206, 206, 0.4);
+}
+.featuredRow .exploreSpecial button{
+    padding: 8px 20px;
+    border-radius: 20px;
+    border: 1px solid rgb(179, 179, 179, 0.7);
+    margin-left: 25px;
+    outline: none;
+    font-size: 13px;
+    margin-top: 2px;
+}
+.featuredRow .exploreSpecial .exploreMore{
+    padding: 6px 10px;
+    border: 1px solid rgb(179, 179, 179, 0.7);
+    margin-top: 2px;
+    border-radius: 20px;
+    margin-left: 15px;
+}
+.featuredRow .postShare{
+    display: flex;
+    border-top: 1px solid rgb(179, 179, 179, 0.7);
+    margin-top: 27px;
+}
+.featuredRow .postShare .features{
+    display: flex;
+    justify-content: space-around;
+}
+.featuredRow .postShare .featureAction{
+    display: flex;
+    margin-right: 10px;
+}
+.featuredRow .postShare .featureSave, .featuredRow .postShare .featureLike, .featuredRow .postShare .featureComment{
+    margin: 6px;
+    font-size: 20px;
+    color: rgb(146, 146, 146);
+}
+.featuredRow .postShare h6{
+    margin: 6px;
+    margin-left: 0px;
+    color: rgb(146, 146, 146);
+    font-size: 12px;
+}
